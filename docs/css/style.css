@@ -1423,7 +1423,7 @@ select:focus {
 .header-contact-info li .single-item .text h3{
     font-size: 18px;
     font-weight: 500;
-    text-transform: capitalize;
+    text-transform: inherit;
     font-family: 'Rubik', sans-serif;
 }
 .header-contact-info li .single-item .text p{
