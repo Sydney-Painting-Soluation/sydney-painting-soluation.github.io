@@ -536,16 +536,16 @@ li{
     background-image:url(../images/icon/preloader.gif);
 }
 .preloader.style-two {
-    background-image: url(../images/home-pages/preloader-2.gif);
+    background-image: url(../images/home-pages/preloader-2.html);
 }
 .preloader.style-three {
-    background-image: url(../images/home-pages/preloader-3.gif);
+    background-image: url(../images/home-pages/preloader-3.html);
 }
 .preloader.style-four {
-    background-image: url(../images/home-pages/preloader-4.gif);
+    background-image: url(../images/home-pages/preloader-4.html);
 }
 .preloader.style-five {
-    background-image: url(../images/home-pages/preloader-5.gif);
+    background-image: url(../images/home-pages/preloader-5.html);
 }
 
 
