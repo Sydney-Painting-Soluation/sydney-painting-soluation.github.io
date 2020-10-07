@@ -120,8 +120,20 @@ a:focus {
     outline: none;
     border: none;
 }
-
-
+/* start Blink top header text */
+.blink_text {
+    animation-name: blinker;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+   }
+   
+   @keyframes blinker {  
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+   }
+/* End Blink top header text */
 
 @media (min-width: 1200px) {
     .container {
