@@ -1479,16 +1479,20 @@ li .single-footer-contact-info .inner {
     margin-top: -45px;
 }    
 .logo-box-style1 {
-    position: absolute;
+    /* position: absolute;
     margin: 22px 0 23px;
     top: 0;
     left: 10px;
     float: none !important;
     z-index: 33;
-    max-width: 80%
+    max-width: 80% */
+    top: 0;
+    float: none !important;
+    z-index: 33;
+    max-width: 100%;
 }
 .logo-box-style1 img {
-    max-width: 90%;
+    max-width: 100%;
 }    
     
 .main-menu-box {
@@ -1516,7 +1520,7 @@ li .single-footer-contact-info .inner {
     max-width: 350px;
 }  
 .header-upper-style1.fixed-header .logo-box-style1 {
-    margin: 22px 0 23px;
+    margin: 5px 0 -12px;
 }
 .header-upper-style1.fixed-header .outer-search-box {
     padding: 15px 0;

@@ -961,7 +961,7 @@ select:focus {
     z-index: 9999999999;
 }
 .header-upper-style1.fixed-header .logo-box-style1 {
-    margin: 3px 0;
+    margin: 6px 0 -18px;
     transition: all 500ms ease 100ms;
 }
 .header-upper-style1.fixed-header .main-menu .navigation > li > a {
@@ -991,7 +991,7 @@ select:focus {
 .logo-box-style1 {
     position: relative;
     display: block;
-    margin: 3px 0;
+    margin: 0px 0 -21px;
     transition: all 500ms ease 100ms;
 }
 .logo-box-style1 a{
