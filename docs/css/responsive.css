@@ -1485,9 +1485,10 @@ li .single-footer-contact-info .inner {
     left: 10px;
     float: none !important;
     z-index: 33;
+    max-width: 80%
 }
 .logo-box-style1 img {
-    max-width: 70%;
+    max-width: 90%;
 }    
     
 .main-menu-box {
